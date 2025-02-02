@@ -30,8 +30,10 @@ To run this project locally, follow these steps:
    git clone https://github.com/parths19/ToDo-List.git
 
 2. **Navigate to the Project Directory:**
+   ```bash
    cd todo-list
-   Open the index.html file in your preferred web browser.
+   ```
+3. Open the index.html file in your preferred web browser.
 
 
 # Contributing
