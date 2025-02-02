@@ -33,15 +33,6 @@ To run this project locally, follow these steps:
    cd todo-list
    Open the index.html file in your preferred web browser.
 
-# File Structure
-
-todo-list/
-│
-├── index.html          # Main HTML file
-├── style.css           # CSS styles for the application
-├── script.js           # JavaScript functionality
-├── README.md           # Project documentation
-
 
 # Contributing
 
